@@ -15,6 +15,7 @@ npm install
 ```
 - wpisać dane serwera w pliku ts_files/bot_minecraft.ts,
 - wpisać własny klucz api ze strony https://console.groq.com/home w pliku ts_files/config.ts
+
 Aby uruchomić bota z eksperymentalnym trybem przeszukiwania internetu i pisania poradnikow należy:
 - pobrać przegladarke google chrome
 - pobrac chromedriver do przegladarki i wpisać ścieżke do niego w python_files/chatgpt.py
